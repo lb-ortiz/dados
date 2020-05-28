@@ -32,7 +32,7 @@ const restaurants = [
   {
     id: '3',
     name: "Eat Fresh",
-    priceRange: '$$',
+    priceRange: '$$$',
     zoneRange: 'ZL',
     imageSrc: '/images/3-Eat Fresh.jpg',
     imageDescription: 'Foto do logo Eat Fresh',
@@ -46,7 +46,7 @@ const restaurants = [
   {
     id: '4',
     name: 'Feria na Mão',
-    priceRange: '$$',
+    priceRange: '$',
     zoneRange: 'ZS',
     imageSrc: '/images/4-Feira na Mao.jpg',
     imageDescription: 'Foto do logo Feira',
@@ -60,7 +60,7 @@ const restaurants = [
   {
     id: '5',
     name: 'Feira do Produtor',
-    priceRange: '$$$',
+    priceRange: '$$',
     zoneRange: 'ZO',
     imageSrc: '/images/5-Feira do Produtor.jpg',
     imageDescription: 'Foto do logo da Feira do produtor',
@@ -88,7 +88,7 @@ const restaurants = [
   {
     id: '7',
     name: 'Caldo de Cana Kidelicia',
-    priceRange: '$$$$',
+    priceRange: '$',
     zoneRange: 'C',
     imageSrc: '/images/7-Caldo de Cana Kidelicia.jpg',
     imageDescription: 'Foto do logo Caldo de Cana Kidelicia',
@@ -102,7 +102,7 @@ const restaurants = [
   {
     id: '8',
     name: 'Empório de Bebidas',
-    priceRange: '$$',
+    priceRange: '$$$$',
     zoneRange: 'C',
     imageSrc: '/images/8-Emporio.jpg',
     imageDescription: 'Foto do logo do Emporio',
@@ -130,7 +130,7 @@ const restaurants = [
   {
     id: '10',
     name: "Tio Du Pastel",
-    priceRange: '$',
+    priceRange: '$$',
     zoneRange: 'ZN',
     imageSrc: '/images/10-Tio Du Pastel.jpg',
     imageDescription: 'Foto do Logo Tio Du Pastel',
