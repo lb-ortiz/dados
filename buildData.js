@@ -108,7 +108,7 @@ const restaurants = [
     imageDescription: 'Foto do logo do Emporio',
     description: "Bebidas para quase toda família",
     menu: [
-      { item: 'pack Cerveja', price: 30 },
+      { item: 'Pack Cerveja', price: 30 },
       { item: 'Vodka 1L', price: 80 },
       { item: 'Whisky 750ml', price: 98 },
     ],
