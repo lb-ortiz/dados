@@ -1,10 +1,10 @@
 {
-  "name": "@micro-frontends-demo/content",
+  "name": "feira_demo",
   "version": "1.0.0",
-  "description": "Static content for a micro frontends demo",
-  "repository": "git@github.com:micro-frontends-demo/content",
-  "author": "Cam Jackson <camjackson89@gmail.com>",
-  "license": "MIT",
+  "description": "tcc starter projetct",
+  "repository": "git@github.com:lb-ortiz/content",
+  "author": "leo&lucas",
+  "license": "none",
   "scripts": {
     "build": "node buildData.js",
     "start": "serve --port 5000 --cors content"
