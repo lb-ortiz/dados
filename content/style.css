@@ -25,3 +25,13 @@ body {
 main {
   flex: 1;
 }
+
+.form-div{
+	float:left;
+	margin-right:20px;
+}
+
+.form-div input{
+	margin-left:20px;
+	float:right;
+}
